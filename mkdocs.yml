@@ -2,6 +2,7 @@ site_name: Smart Peers
 theme:
   name: material
   custom_dir: overrides
+  logo: img/smartpeers-logo-white.svg
 extra:
   consent:
     title: Cookie consent
