@@ -1,4 +1,4 @@
 ---
 template: home.html
-title: wacc.io
+title: Smart Peers
 ---
