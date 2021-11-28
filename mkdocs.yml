@@ -2,6 +2,7 @@ site_name: ""
 theme:
   name: material
   custom_dir: overrides
+  favicon: img/favicon.ico
   logo: img/smartpeers-logo-white.svg
 extra_css:
   - stylesheets/custom.css
