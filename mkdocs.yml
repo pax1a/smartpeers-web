@@ -4,6 +4,7 @@ theme:
   custom_dir: overrides
   favicon: img/favicon.ico
   logo: img/smartpeers-logo-white.svg
+plugins: []
 extra_css:
   - stylesheets/custom.css
 extra:
