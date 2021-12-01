@@ -17,3 +17,5 @@ extra:
       make our documentation better.
 nav:
   - Home: index.md
+  - Getting started: getting-started.md
+  - API Access: api-access.md
